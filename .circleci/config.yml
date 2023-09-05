@@ -1,0 +1,15 @@
+# Python CircleCI 2.0 configuration file
+version: 2.1
+
+jobs:
+  build:
+    docker:
+    # Use the same Docker base as the project
+      - image: python:3.7.3-stretch
+      - run:
+          name: Install python dependencies
+          command: |
+workflows:
+    main:
+        jobs:
+            - build
