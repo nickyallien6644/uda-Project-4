@@ -1,4 +1,4 @@
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/nickyallien6644/uda-Project-4/tree/master.svg?style=svg&circle-token=45eb86d8d25f505edc3f4c857c0c57efeb8c5c6c)](https://dl.circleci.com/status-badge/redirect/gh/nickyallien6644/uda-Project-4/tree/master)
+CIRCLE CI STATUS [![CircleCI](https://dl.circleci.com/status-badge/img/gh/nickyallien6644/uda-Project-4/tree/master.svg?style=svg&circle-token=45eb86d8d25f505edc3f4c857c0c57efeb8c5c6c)](https://dl.circleci.com/status-badge/redirect/gh/nickyallien6644/uda-Project-4/tree/master)
 
 ## Project Overview
 
